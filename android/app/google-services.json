@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978833577849",
+    "project_id": "mydo-65c69",
+    "storage_bucket": "mydo-65c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978833577849:android:fd122e398c6fbb932ec1a8",
+        "android_client_info": {
+          "package_name": "com.example.mydo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978833577849-ijqiurgq4eo1unmpu6jkrotrbubm1m8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjkOL0XULo1OH-fRQM4zuTyd3zKyca3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978833577849-ijqiurgq4eo1unmpu6jkrotrbubm1m8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
